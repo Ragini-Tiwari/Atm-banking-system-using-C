@@ -1,4 +1,4 @@
-#Simple ATM Banking System Using C:
+*Simple ATM Banking System Using C:
 
 This is a simple ATM (Automated Teller Machine) program written in C. It allows users to perform basic banking transactions such as withdrawal, deposit, and balance inquiry after entering their PIN.
 
