@@ -5,6 +5,7 @@ This is a simple ATM (Automated Teller Machine) program written in C. It allows 
 ---
 
 Features
+
 PIN Verification: Users need to enter their PIN to access the ATM functionalities.
 Withdrawal: Users can withdraw money from their account, provided they have sufficient balance.
 Deposit: Users can deposit money into their account.
@@ -16,6 +17,7 @@ User-Friendly Interface: Simple and easy-to-use interface.
 ---
 
 Usage:
+
 Compile the program using a C compiler.
 Run the executable file.
 Enter your PIN when prompted.
@@ -26,6 +28,7 @@ Optionally, perform additional transactions or exit the program.
 ---
 
 Requirements:
+
 C Compiler (e.g., GCC)
 Standard C Libraries (stdio.h, windows.h, time.h)
 Instructions
@@ -40,6 +43,7 @@ Enjoy banking with Code with Curious ATM!
 ---
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to customize this README file according to your preferences and requirements. Let me know if you need further assistance!
