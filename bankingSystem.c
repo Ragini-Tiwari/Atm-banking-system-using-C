@@ -130,13 +130,9 @@ void main(){
 
    }
 
-
-
     printf("\n\t\tDo you wish to perform another transaction ?Press 1[Yes], 0[No]");
 
     scanf("%d",&continue_transaction);
-
-
 
    }
 
